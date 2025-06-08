@@ -79,7 +79,7 @@ python main.py
 
 ## 🎬 Demo Videosu
 
-> [🔗 YouTube Demo Videosu](https://www.youtube.com/watch?v=xxxxxxxxxxx)  
+> [🔗 YouTube Demo Videosu](https://www.youtube.com/watch?v=SvGL_m1ajHU)  
 (İzlemek için bağlantıyı güncelleyin.)
 
 ---
